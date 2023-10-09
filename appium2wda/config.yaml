@@ -1,0 +1,20 @@
+# iphone手机在windows上跑任务的时候，facebook-wda需要的配置参数
+iphoneOnWindowsConfig:
+  platformName: "ios"
+  platformVersion: "14.3"
+  deviceName: "59290669adf51a4e06ced4d250"
+  udid: "59290669adf51a4e06ced4d250"
+  ip: 127.0.0.1
+  port: 4725
+  wdaLocalPort: 8100
+  mjpegServerPort: 9100
+  webDriverAgentUrl: "http://127.0.0.1:8100"
+  noReset: True
+  usePrebuiltWDA: False
+  useXctestrunFile: False
+  skipLogCapture: True
+  automationName: XCUITest
+
+# 默认APP
+defaultApp:
+  bundleId:
