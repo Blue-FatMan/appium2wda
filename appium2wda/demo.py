@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 # @Time    : 2022/12/9 16:01
-# @Author  : liuqiao
-# @Email   : liuqiao@LQ65535@163.com
+# @Author  : 
+# @Email   : LQ65535@163.com
 # @File    : demo.py
 # @desc    : demo
 # @Software: PyCharm

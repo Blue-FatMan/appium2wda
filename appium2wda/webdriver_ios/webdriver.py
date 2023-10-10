@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 # @Time    : 2021/10/13 14:40
-# @Author  : liuqiao
-# @Email   : liuqiao@LQ65535@163.com
+# @Author  : 
+# @Email   : LQ65535@163.com
 # @File    : webdriver.py
 # @Software: PyCharm
 import json
